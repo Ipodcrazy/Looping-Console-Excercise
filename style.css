@@ -1,0 +1,11 @@
+html {
+    background-color: grey;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: white;
+}
